@@ -196,52 +196,52 @@ Se o seu projeto ou decisão envolver qualquer um desses temas, tome medidas adi
 
 Fase ou atividade: Planejar, Pesquisar
 ----------------------
-_page 8 of 15_
+_página 8 de 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Passos que você pode dar para ser aberto</strong></td>
+<td><strong>Perguntas para fazer</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Engage customers + collaborators</strong><br/>
- • Gather input from internal customers and those who you will need help from (surveys, interviews, focus groups, etc.)<br/><br/>
- • Make it easy to participate + manage. Ask customers which collaboration tools they prefer to use. Have a plan for consolidating and publishing feedback.<br/><br/>
- • Remain open to new information and perspectives<Br/><br/>
- • Consider peer-to-peer feedback and communication options in addition to formal channels<br/><br/>
+<td rowspan=3 width=33%><strong>Envolva clientes + colaboradores</strong><br/>
+ • Reúna informações de clientes internos e de quem você precisará de ajuda (pesquisas, entrevistas, grupos focais, etc.)<br/><br/>
+ • Facilite a participação + gerência. Pergunte aos clientes quais ferramentas de colaboração eles preferem usar. Tenha um plano para consolidar e publicar feedback.<br/><br/>
+ • Permaneça aberto a novas informações e perspectivas<br/><br/>
+ • Considere o feedback pessoal e as opções de comunicação, além dos canais formais<br/><br/>
 
-<strong>Set expectations upfront</strong><Br/>
- • Be specific about what type(s) of feedback you're looking for + who is making the decision(s)<Br/><Br/>
- • Publish decision process and project plan, with roles, dates, constraints
+<strong>Defina expectativas antecipadamente</strong><Br/>
+ • Seja específico sobre o(s) tipo(s) de feedback que você está procurando + quem está tomando a(s) decisão(ões)<br/><br/>
+ • Publique o processo de decisão e o plano do projeto, com funções, datas e restrições
 </td>
-<td rowspan=3 width=33%><strong>Explain the obvious</strong><Br/>
- • Publish the scope of the project or decision, and reiterate often<br/><br/>
- • Publish decision factors and their relative importance<Br/><Br/>
- • Publish your research, including difficult trade-offs, business requirements<br/><br/>
- • To the extent possible, publish any relevant legal, reporting, or confidentiality concerns<br/><br/>
+<td rowspan=3 width=33%><strong>Explique o óbvio</strong><Br/>
+ • Publique o escopo do projeto ou decisão e reitere-o com frequência<br/><br/>
+ • Publique fatores de decisão e sua importância relativa<br/><br/>
+ • Publique sua pesquisa, incluindo vantagens e desvantagens difíceis, requisitos de negócios<br/><br/>
+ • Na medida do possível, publique quaisquer preocupações legais, de relatórios ou de confidencialidade relevantes<br/><br/>
 
-<strong>Plan the transition</strong><br/><br/>
- • Develop and gather feedback on communication, change management, and adoption plans<br/><Br/>
- • Think through how you could respond to upset individuals (on memo-list and other channels)
+<strong>Planeje a transição</strong><br/><br/>
+ • Desenvolva e colete feedback sobre comunicação, gerenciamento de mudanças e planos de adoção<br/><Br/>
+ • Pense em como você poderia reagir a indivíduos chateados (na lista de notas e em outros canais)
 </td>
 <td>
- • How will we make decisions?<Br/><Br/>
- • What internal customers, stakeholders, and collaborators will we involve?<br/><br/>
- • How will we engage and communicate with them?<br/><br/>
- • What are the open source options?<br/><br/>
- • How might choosing a proprietary technology or format limit our choices in the future?<br/><br/>
- • How does this align with the company strategy and mission?<br/><br/>
- • Where might this conflict with Red Hat's values and culture?
+ • Como vamos tomar decisões?<Br/><Br/>
+ • Quais clientes internos, partes interessadas e colaboradores nós envolveremos?<br/><br/>
+ • Como nos envolveremos e nos comunicaremos com eles?<br/><br/>
+ • Quais são as opções de código aberto?<br/><br/>
+ • Como a escolha de uma tecnologia ou formato proprietário pode limitar nossas escolhas no futuro?<br/><br/>
+ • Como isso se alinha à estratégia e missão da empresa?<br/><br/>
+ • Onde isso poderia conflitar com os valores e a cultura da Red Hat?
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Considerações chaves</strong></td>
 </tr>
 <tr>
 <td>
- • Impact – who, how often, and unexpected<br/>
- • Where and how to collaborate<Br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) 
+ • Impacto – quem, com qual frequência e inesperado<br/>
+ • Onde e como colaborar<br/>
+ • Papeis + responsabilidades (OPT model: https://github.com/red-hat-people-team/opt-model/) 
 </td>
 </tr>
 </table>
