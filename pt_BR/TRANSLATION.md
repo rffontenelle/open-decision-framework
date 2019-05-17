@@ -9,7 +9,7 @@ Atualizada em 10 de abril de 2017
 Observações
 ============
 
-* Essa versão em markdown dos slides destina-se a facilitar a colaboração e o rastreamento de alterações.
+* Essa versão em _markdown_ dos slides destina-se a facilitar a colaboração e o rastreamento de alterações.
 * A numeração de páginas corresponde aos arquivos LibreOffice (.odp) e PDF no repositório.
 
 Índice
@@ -59,7 +59,7 @@ _página 3 de 15_
 </tr>
 <tr>
 <td>Explique quem está tomando a decisão, que problemas você está tentando resolver, os requisitos e as restrições envolvidas e o processo que seguirá.</td>
-<td>Envolva os outros para receber feedback e colabore durante todo o processo de tomada de decisão. Busque perspectivas diversas, incluindo possíveis detratores.</td>
+<td>Envolva os outros para receber _feedback_ e colabore durante todo o processo de tomada de decisão. Busque perspectivas diversas, incluindo possíveis detratores.</td>
 <td>Pense nas pessoas como clientes com necessidades e prioridades concorrentes. Quando uma decisão ajudará alguns clientes, mas desapontará os outros, gerencie relacionamentos e expectativas enquanto faz as coisas.</td>
 </tr>
 </table>
@@ -110,11 +110,11 @@ _página 5 de 15_
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Transparência com clientes internos e outras partes interessadas<br/> • Envolvimento do cliente<br/> • Obtenha feedback e adapte as mudanças iterativas<br/> • Ideação com clientes<br/> • Construa confiança e respeito através da colaboração
+• Transparência com clientes internos e outras partes interessadas<br/> • Envolvimento do cliente<br/> • Obtenha _feedback_ e adapte as mudanças iterativas<br/> • Ideação com clientes<br/> • Construa confiança e respeito através da colaboração
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Aceitação do cliente<br/> • Adoção mais forte e mais rápida<br/> • As melhores ideias vencem<br/> • Menos bugs, problemas e impactos não antecipados<br/> • Maior engajamento de associados<br/> • Decisões alinhadas à estratégia e cultura
+• Aceitação do cliente<br/> • Adoção mais forte e mais rápida<br/> • As melhores ideias vencem<br/> • Menos _bugs_, problemas e impactos não antecipados<br/> • Maior engajamento de associados<br/> • Decisões alinhadas à estratégia e cultura
 </td>
 </tr>
 </table>
@@ -122,7 +122,7 @@ _página 5 de 15_
 
 Você não consegue agradar a todos
 ----------------------------------------------------
-**Mas quando você faz decisões abertas, as pessoas sentem...**  _page 6 of 15_ 
+**Mas quando você faz decisões abertas, as pessoas sentem...**  _página 6 of 15_ 
 
   - Entendo porque a decisão foi tomada e como ela se alinha à estratégia, objetivos e missão da Red Hat.
   - Havia visibilidade para os requisitos de negócios, pesquisa e critérios de avaliação.
@@ -144,7 +144,7 @@ _página 7 de 15_
 <tr>
 <td width=34%><strong>Passos que você pode dar para ser aberto</strong></td>
 <td width=36%><strong>Perguntas para fazer</strong></td>
-<td width=30%><strong>Gatilhos comuns para *flamewar*</strong></td>
+<td width=30%><strong>Gatilhos comuns para _flamewar_</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3>
@@ -156,7 +156,7 @@ _página 7 de 15_
 <strong>Construa diversidade de pensamento + um ambiente inclusivo</strong><br/>
  • Envolva os clientes internos e as partes interessadas desde o início, especialmente aqueles que podem discordar<br/><br/>
  • Busque perspectivas diversas e sub-representadas (geografias, etnias, departamentos, níveis de emprego, sexo, idade, etc.)<br/><br/>
- • Promove a colaboração e forneça canais de feedback<br/><br/>
+ • Promove a colaboração e forneça canais de _feedback_<br/><br/>
  • Aborde riscos, limitações e potenciais impactos culturais, especialmente com questões historicamente controversas<br/><br/>
 </td>
 <td>
@@ -206,12 +206,12 @@ _página 8 de 15_
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Envolva clientes + colaboradores</strong><br/>
  • Reúna informações de clientes internos e de quem você precisará de ajuda (pesquisas, entrevistas, grupos focais, etc.)<br/><br/>
- • Facilite a participação + gerência. Pergunte aos clientes quais ferramentas de colaboração eles preferem usar. Tenha um plano para consolidar e publicar feedback.<br/><br/>
+ • Facilite a participação + gerência. Pergunte aos clientes quais ferramentas de colaboração eles preferem usar. Tenha um plano para consolidar e publicar _feedback_.<br/><br/>
  • Permaneça aberto a novas informações e perspectivas<br/><br/>
- • Considere o feedback pessoal e as opções de comunicação, além dos canais formais<br/><br/>
+ • Considere o _feedback_ pessoal e as opções de comunicação, além dos canais formais<br/><br/>
 
 <strong>Defina expectativas antecipadamente</strong><Br/>
- • Seja específico sobre o(s) tipo(s) de feedback que você está procurando + quem está tomando a(s) decisão(ões)<br/><br/>
+ • Seja específico sobre o(s) tipo(s) de _feedback_ que você está procurando + quem está tomando a(s) decisão(ões)<br/><br/>
  • Publique o processo de decisão e o plano do projeto, com funções, datas e restrições
 </td>
 <td rowspan=3 width=33%><strong>Explique o óbvio</strong><Br/>
@@ -221,12 +221,12 @@ _página 8 de 15_
  • Na medida do possível, publique quaisquer preocupações legais, de relatórios ou de confidencialidade relevantes<br/><br/>
 
 <strong>Planeje a transição</strong><br/><br/>
- • Desenvolva e colete feedback sobre comunicação, gerenciamento de mudanças e planos de adoção<br/><Br/>
+ • Desenvolva e colete _feedback_ sobre comunicação, gerenciamento de mudanças e planos de adoção<br/><Br/>
  • Pense em como você poderia reagir a indivíduos chateados (na lista de notas e em outros canais)
 </td>
 <td>
  • Como vamos tomar decisões?<Br/><Br/>
- • Quais clientes internos, partes interessadas e colaboradores nós envolveremos?<br/><br/>
+ • Quais clientes internos, interessados e colaboradores nós envolveremos?<br/><br/>
  • Como nos envolveremos e nos comunicaremos com eles?<br/><br/>
  • Quais são as opções de código aberto?<br/><br/>
  • Como a escolha de uma tecnologia ou formato proprietário pode limitar nossas escolhas no futuro?<br/><br/>
@@ -249,57 +249,57 @@ _página 8 de 15_
 
 Fase ou atividade: Projetar, Desenvolver, Testar
 ----------------------------
-_page 9 of 15_ 
+_página 9 de 15_ 
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Passos que você pode dar para ser aberto</strong></td>
+<td><strong>Perguntas para fazer</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Build your community</strong><br/>
- • Ask departments who from their team can provide feedback<Br/><Br/>
- • Socialize decision with customers and stakeholders, especially those that may be more vocal about impacts<br/><br/>
- • Investigate options and accommodations for negatively impacted customers<Br/><Br/>
+<td rowspan=3 width=33%><strong>Construa sua comunidade</strong><br/>
+ • Pergunte aos departamentos quem, de suas equipes, pode fornecer _feedback_<Br/><Br/>
+ • Socialize a decisão com clientes e interessados, especialmente aqueles que podem ser mais falantes sobre os impactos<br/><br/>
+ • Investigue opções e acomodações para clientes impactados negativamente<Br/><Br/>
 
-<strong>Promote open exchange</strong><br/>
- • Evaluate, acknowledge, and incorporate feedback<br/><br/>
- • Highlight changes made in response to feedback<br/><br/>
- • If a suggestion isn't feasible, explain why<br/><br/>
- • Publish progress in an open place<br/><br/>
- • Provide regular updates to sponsors, customers, and stakeholders
+<strong>Promova troca aberta</strong><br/>
+ • Avalie, reconhece e incorpore _feedback_<br/><br/>
+ • Realce as alterações feitas em resposta ao _feedback_<br/><br/>
+ • Se uma sugestão não for viável, explique o por quê<br/><br/>
+ • Publique progresso em um lugar aberto<br/><br/>
+ • Forneça atualizações regulares aos patrocinadores, clientes e interessados
 </td>
 <td rowspan=3 width=33%>
-<strong>Make it safe to voice concerns</strong><br/>
- • Invite project team and collaborators to raise risks and concerns you've overlooked.<br/><br/>
- • Ask: What might prevent this project from succeeding? What concerns will your team have? What are we missing?<br/><br/>
- • Publish risk and limitations uncovered along the way<br/><br/>
+<strong>Torne seguro para expressar preocupações</strong><br/>
+ • Convide a equipe do projeto e os colaboradores para levantar os riscos e preocupações que você não viu.<br/><br/>
+ • Pergunte: O que pode impedir que este projeto seja bem-sucedido? Quais são as preocupações da sua equipe? O que não estamos vendo?<br/><br/>
+ • Publique riscos e limitações descobertas ao longo do caminho<br/><br/>
 
-<strong>Conduct a premortem</strong><br/>
- • Pretend it's launch day, and people are surprised or upset. What triggered it?<br/><br/>
- • Identify changes you would make or points you might clarify in response, and make them proactively instead<br/><br/>
+<strong>Realize um pré-mortem</strong><br/>
+ • Finja que é dia de lançamento e as pessoas ficam surpresas ou aborrecidas. O que desencadeou isso?<br/><br/>
+ • Identifique as mudanças que você faria ou os pontos que você poderia esclarecer em resposta, e faça-os de forma proativa<br/><br/>
 
-<strong>Activate your ambassadors</strong><Br/>
- • Equip the community to help you clear up misinformation and misunderstandings
+<strong>Ative seus embaixadores</strong><Br/>
+ • Equipe a comunidade para ajudá-lo a esclarecer desinformações e mal-entendidos
 </td>
 <td>
- • Can we pilot or release early to gather input?<br/><br/>
- • How will we test?<br/><Br/>
- • Which internal customers can help test?<br/><br/>
- • Does a cross-functional working group make sense?<br/><br/>
- • Can we build a community of passion around this project or decision?<br/><br/>
- • Have we engaged the people who will have to do the work?<br/><br/>
- • Who do we need more buy-in or support from?
+ • Podemos fazer um piloto ou lançar antecipadamente para coletar informações?<br/><br/>
+ • Como vamos testar?<br/><Br/>
+ • Quais clientes internos podem ajudar a testar?<br/><br/>
+ • Um grupo de trabalho multifuncional faz sentido?<br/><br/>
+ • Podemos construir uma comunidade de paixão em torno deste projeto ou decisão?<br/><br/>
+ • Envolvemos as pessoas que terão que fazer o trabalho?<br/><br/>
+ • De quem precisamos de mais adesão ou apoio?
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Considerações chaves</strong></td>
 </tr>
 <tr>
 <td>
- • Representation of different types of customers<br/>
- • Unexpected impacts and use cases<br/>
- • Unspoken risks and concerns
+ • Representação de diferentes tipos de clientes<br/>
+ • Casos de uso e impactos inesperados<br/>
+ • Riscos e preocupações não ditos
 </td>
 </tr>
 </table>
