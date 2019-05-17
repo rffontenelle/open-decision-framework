@@ -4,7 +4,7 @@ Versão da Comunidade 1.0.4
 
 Atualizada em 10 de abril de 2017
 
-© 2014-2017 Red Hat e contribuidores | O Open Decision Framework foi criado pela equipe Red Hat People e está disponível sob licença internacional Creative Commons Atribuição-CompartilhaIgual 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR) ). Red Hat e o logotipo do Shadowman são marcas comerciais da Red Hat, Inc. registradas em outros países. As versões modificadas devem remover todas as marcas da Red Hat.
+© 2014-2017 Red Hat e contribuidores | O Open Decision Framework foi criado pela equipe Red Hat People e está disponível sob licença internacional Creative Commons Atribuição-CompartilhaIgual 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)). Red Hat e o logotipo do Shadowman são marcas comerciais da Red Hat, Inc. registradas em outros países. As versões modificadas devem remover todas as marcas da Red Hat.
 
 Observações
 ============
@@ -59,8 +59,8 @@ _página 3 de 15_
 </tr>
 <tr>
 <td>Explique quem está tomando a decisão, que problemas você está tentando resolver, os requisitos e as restrições envolvidas e o processo que seguirá.</td>
-<td>Envolva os outros para receber _feedback_ e colabore durante todo o processo de tomada de decisão. Busque perspectivas diversas, incluindo possíveis detratores.</td>
-<td>Pense nas pessoas como clientes com necessidades e prioridades concorrentes. Quando uma decisão ajudará alguns clientes, mas desapontará os outros, gerencie relacionamentos e expectativas enquanto faz as coisas.</td>
+<td>Envolva os outros para receber <i lang="en">feedback</i> e colabore durante todo o processo de tomada de decisão. Busque perspectivas diversas, incluindo possíveis detratores.</td>
+<td>Pense nas pessoas como clientes com necessidades e prioridades concorrentes. Quando uma decisão ajudará alguns clientes, mas desapontará outros, gerencie relacionamentos e expectativas enquanto faz as coisas.</td>
 </tr>
 </table>
 
@@ -71,7 +71,7 @@ _página 4 de 15_
 
 **Troca aberta**
 
-Quer você esteja desenvolvendo software ou tentando resolver um problema de negócios, a troca aberta começa quando você compartilha seu "código-fonte" com outras pessoas. Uma troca livre de ideias é fundamental para criar um ambiente onde as pessoas possam aprender e usar as informações existentes para criar novas ideias.
+Quer você esteja desenvolvendo software ou tentando resolver um problema de negócios, a troca aberta começa quando você compartilha seu “código-fonte” com outras pessoas. Uma troca livre de ideias é fundamental para criar um ambiente onde as pessoas possam aprender e usar as informações existentes para criar novas ideias.
 
 **Participação**
 
@@ -110,11 +110,11 @@ _página 5 de 15_
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Transparência com clientes internos e outras partes interessadas<br/> • Envolvimento do cliente<br/> • Obtenha _feedback_ e adapte as mudanças iterativas<br/> • Ideação com clientes<br/> • Construa confiança e respeito através da colaboração
+• Transparência com clientes internos e outras partes interessadas<br/> • Envolvimento do cliente<br/> • Obtenha <i lang="en">feedback</i> e adapte as mudanças iterativas<br/> • Ideação com clientes<br/> • Construa confiança e respeito através da colaboração
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Aceitação do cliente<br/> • Adoção mais forte e mais rápida<br/> • As melhores ideias vencem<br/> • Menos _bugs_, problemas e impactos não antecipados<br/> • Maior engajamento de associados<br/> • Decisões alinhadas à estratégia e cultura
+• Aceitação do cliente<br/> • Adoção mais forte e mais rápida<br/> • As melhores ideias vencem<br/> • Menos <i lang="en">bugs</i>, problemas e impactos não antecipados<br/> • Maior engajamento de associados<br/> • Decisões alinhadas à estratégia e cultura
 </td>
 </tr>
 </table>
@@ -144,7 +144,7 @@ _página 7 de 15_
 <tr>
 <td width=34%><strong>Passos que você pode dar para ser aberto</strong></td>
 <td width=36%><strong>Perguntas para fazer</strong></td>
-<td width=30%><strong>Gatilhos comuns para _flamewar_</strong></td>
+<td width=30%><strong>Gatilhos comuns para <i lang="en">flamewar</i></strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3>
@@ -156,7 +156,7 @@ _página 7 de 15_
 <strong>Construa diversidade de pensamento + um ambiente inclusivo</strong><br/>
  • Envolva os clientes internos e as partes interessadas desde o início, especialmente aqueles que podem discordar<br/><br/>
  • Busque perspectivas diversas e sub-representadas (geografias, etnias, departamentos, níveis de emprego, sexo, idade, etc.)<br/><br/>
- • Promove a colaboração e forneça canais de _feedback_<br/><br/>
+ • Promova a colaboração e forneça canais de <i lang="en">feedback</i><br/><br/>
  • Aborde riscos, limitações e potenciais impactos culturais, especialmente com questões historicamente controversas<br/><br/>
 </td>
 <td>
@@ -206,26 +206,26 @@ _página 8 de 15_
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Envolva clientes + colaboradores</strong><br/>
  • Reúna informações de clientes internos e de quem você precisará de ajuda (pesquisas, entrevistas, grupos focais, etc.)<br/><br/>
- • Facilite a participação + gerência. Pergunte aos clientes quais ferramentas de colaboração eles preferem usar. Tenha um plano para consolidar e publicar _feedback_.<br/><br/>
- • Permaneça aberto a novas informações e perspectivas<br/><br/>
- • Considere o _feedback_ pessoal e as opções de comunicação, além dos canais formais<br/><br/>
+ • Facilite a participação + gerência. Pergunte aos clientes quais ferramentas de colaboração eles preferem usar. Tenha um plano para consolidar e publicar <i lang="en">feedback</i>.<br/><br/>
+ • Permaneça de mente aberta para novas informações e perspectivas<br/><br/>
+ • Considere o <i lang="en">feedback</i> pessoal e as opções de comunicação, além dos canais formais<br/><br/>
 
-<strong>Defina expectativas antecipadamente</strong><Br/>
- • Seja específico sobre o(s) tipo(s) de _feedback_ que você está procurando + quem está tomando a(s) decisão(ões)<br/><br/>
+<strong>Defina expectativas antecipadamente</strong><br/>
+ • Especifique exatamente o(s) tipo(s) de <i lang="en">feedback</i> que você está procurando + quem está tomando a(s) decisão(ões)<br/><br/>
  • Publique o processo de decisão e o plano do projeto, com funções, datas e restrições
 </td>
-<td rowspan=3 width=33%><strong>Explique o óbvio</strong><Br/>
+<td rowspan=3 width=33%><strong>Explique o óbvio</strong><br/>
  • Publique o escopo do projeto ou decisão e reitere-o com frequência<br/><br/>
  • Publique fatores de decisão e sua importância relativa<br/><br/>
  • Publique sua pesquisa, incluindo vantagens e desvantagens difíceis, requisitos de negócios<br/><br/>
  • Na medida do possível, publique quaisquer preocupações legais, de relatórios ou de confidencialidade relevantes<br/><br/>
 
 <strong>Planeje a transição</strong><br/><br/>
- • Desenvolva e colete _feedback_ sobre comunicação, gerenciamento de mudanças e planos de adoção<br/><Br/>
+ • Desenvolva e colete <i lang="en">feedback</i> sobre comunicação, gerenciamento de mudanças e planos de adoção<br/><br/>
  • Pense em como você poderia reagir a indivíduos chateados (na lista de notas e em outros canais)
 </td>
 <td>
- • Como vamos tomar decisões?<Br/><Br/>
+ • Como vamos tomar decisões?<br/><br/>
  • Quais clientes internos, interessados e colaboradores nós envolveremos?<br/><br/>
  • Como nos envolveremos e nos comunicaremos com eles?<br/><br/>
  • Quais são as opções de código aberto?<br/><br/>
@@ -258,15 +258,15 @@ _página 9 de 15_
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Construa sua comunidade</strong><br/>
- • Pergunte aos departamentos quem, de suas equipes, pode fornecer _feedback_<Br/><Br/>
+ • Pergunte aos departamentos quem, de suas equipes, pode fornecer <i lang="en">feedback</i><br/><br/>
  • Socialize a decisão com clientes e interessados, especialmente aqueles que podem ser mais falantes sobre os impactos<br/><br/>
- • Investigue opções e acomodações para clientes impactados negativamente<Br/><Br/>
+ • Investigue opções e acomodações para clientes impactados negativamente<br/><br/>
 
 <strong>Promova troca aberta</strong><br/>
- • Avalie, reconhece e incorpore _feedback_<br/><br/>
- • Realce as alterações feitas em resposta ao _feedback_<br/><br/>
+ • Avalie, reconhece e incorpore <i lang="en">feedback</i><br/><br/>
+ • Realce as alterações feitas em resposta ao <i lang="en">feedback</i><br/><br/>
  • Se uma sugestão não for viável, explique o por quê<br/><br/>
- • Publique progresso em um lugar aberto<br/><br/>
+ • Publique o progresso em um lugar aberto<br/><br/>
  • Forneça atualizações regulares aos patrocinadores, clientes e interessados
 </td>
 <td rowspan=3 width=33%>
@@ -279,12 +279,12 @@ _página 9 de 15_
  • Finja que é dia de lançamento e as pessoas ficam surpresas ou aborrecidas. O que desencadeou isso?<br/><br/>
  • Identifique as mudanças que você faria ou os pontos que você poderia esclarecer em resposta, e faça-os de forma proativa<br/><br/>
 
-<strong>Ative seus embaixadores</strong><Br/>
+<strong>Ative seus embaixadores</strong><br/>
  • Equipe a comunidade para ajudá-lo a esclarecer desinformações e mal-entendidos
 </td>
 <td>
  • Podemos fazer um piloto ou lançar antecipadamente para coletar informações?<br/><br/>
- • Como vamos testar?<br/><Br/>
+ • Como vamos testar?<br/><br/>
  • Quais clientes internos podem ajudar a testar?<br/><br/>
  • Um grupo de trabalho multifuncional faz sentido?<br/><br/>
  • Podemos construir uma comunidade de paixão em torno deste projeto ou decisão?<br/><br/>
@@ -307,44 +307,44 @@ _página 9 de 15_
 
 Fase ou atividade: Lançar, Implantar, Fechar
 --------------
-_page 10 of 15_ 
+_página 10 de 15_ 
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Passos que você pode dar para ser aberto</strong></td>
+<td><strong>Perguntas para fazer</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
- • Demonstrate alignment with Red Hat's strategy, mission, culture, and values<br/><br/>
- • Outline the steps you've taken to make this decision openly<br/><br/>
- • Highlight use of this framework<br/><br/>
- • Tell associates where to find detailed information<br/><br/>
- • Show how feedback shaped the decision or project<br/><br/>
- • Explain how to provide input after launch<br/><br/>
- • Acknowledge when you're not fully satisfied with the decision or know that others will not be<br/><br/>
- • Share your timeline or criteria for revisiting the decision<br/><br/>
- • Stay engaged with those who reject the decision
+<td rowspan=3 width=33%><strong>Comece com o fim em mente</strong><br/>
+ • Demonstre alinhamento com a estratégia, missão, cultura e valores da Red Hat<br/><br/>
+ • Descreva os passos que você tomou para tomar esta decisão abertamente<br/><br/>
+ • Destaque o uso deste _framework_<br/><br/>
+ • Diga aos associados onde encontrar informações detalhadas<br/><br/>
+ • Mostre como o <i lang="en">feedback</i> moldou a decisão ou projeto<br/><br/>
+ • Explique como fornecer informações após o lançamento<br/><br/>
+ • Reconheça quando você não está totalmente satisfeito com a decisão ou saiba que os outros não estarão<br/><br/>
+ • Compartilhe seu cronograma ou critérios para revisitar a decisão<br/><br/>
+ • Mantenha-se envolvido com aqueles que rejeitam a decisão
 </td>
 <td rowspan=3 width=33%>
-<strong>Default to open</strong><br/>
- • Reiterate relevant business requirements and constraints<br/><br/>
- • Share relevant legal, reporting, or confidentiality issues<br/><br/>
- • Communicate success criteria and publish relevant metrics<br/><br/>
+<strong>Padrão para aberto</strong><br/>
+ • Reitere requisitos e restrições relevantes de negócios<br/><br/>
+ • Compartilhe questões legais, de relatórios ou de confidencialidade relevantes<br/><br/>
+ • Comunique critérios de sucesso e publique métricas relevantes<br/><br/>
 
-<strong>Contribute upstream</strong><br/>
- • Publish your methods, lessons learned, communications, and decision criteria to the archive, so others can review past decisions, learn why a decision was made, and see how leaders have responded to similar issues in the past<br/><br/>
- • Offer guidance to others on open decision making and choosing collaboration tools
+<strong>Contribua com o _upstream_</strong><br/>
+ • <br/>Publique seus métodos, lições aprendidas, comunicações e critérios de decisão no arquivo, para que outros possam revisar as decisões passadas, aprender por que uma decisão foi tomada e ver como os líderes responderam a problemas semelhantes no passado.<br/>
+ • Oferecer orientação a outras pessoas sobre tomada de decisão aberta e escolha de ferramentas de colaboração
 </td>
 <td>
- • How will we monitor mailing lists and other feedback channels after the launch?<br/><br/>
- • If we have done early releases, will we continue to make incremental improvements based on feedback?<br/><br/>
- • How willing are we to make revisions based on feedback?<br/><br/>
- • What's a reasonable window of time for additional input and refinement?<br/><br/>
- • Did we overlook something important? How do we address it?<br/><br/>
- • Does the decision need to be revisited?<br/><br/>
- • Did open decision-making lead to the desired outcomes?<br/><br/>
- • How can we share our lessons learned and encourage open decision-making at Red Hat?
+ • Como vamos monitorar as listas de discussão e outros canais de <i lang="en">feedback</i> após o lançamento?<br/><br/>
+ • Se tivermos feito versões antecipadas, continuaremos a fazer melhorias incrementais com base em <i lang="en">feedback</i>?<br/><br/>
+ • Quão dispostos estamos a fazer revisões com base em <i lang="en">feedback</i>?<br/><br/>
+ • O que é uma janela razoável de tempo para recebimento de informação e refinamento adicionais?<br/><br/>
+ • Nós deixamos passar algo importante sem tratamento? Como lidamos com isso?<br/><br/>
+ • A decisão precisa ser revisitada?<br/><br/>
+ • A tomada de decisão aberta levou aos resultados desejados?<br/><br/>
+ • Como podemos compartilhar nossas lições aprendidas e incentivar a tomada de decisões abertas na Red Hat?
 </td>
 </tr>
 </table>
@@ -352,13 +352,13 @@ _page 10 of 15_
 
 Recursos 
 ===========================================================================
-_page 12 of 15_ 
+_página 12 de 15_ 
 
-  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – quick reference sheets on collaboration, transparency, trust, meritocracy, connection
-  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
-  - [The Open Organization](http://opensource.com/open-organization) (book + online community)
-  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), see grid in Máirín Duffy's "5 UX Tips for Developers"
-  - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles can be applied to business, education, government, and more
+  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – folhas de referência rápida sobre colaboração, transparência, confiança, meritocracia, conexão
+  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guia para criar e nutrir comunidades de colaboradores
+  - [The Open Organization](http://opensource.com/open-organization) (livro + comunidade online)
+  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), veja a grade em “5 UX Tips for Developers” do Máirín Duffy
+  - [Opensource.com](http://www.opensource.com/) – Uma publicação da Red Hat focada em como os princípios de código aberto podem ser aplicados a negócios, educação, governo e muito mais
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
 
@@ -367,28 +367,28 @@ Apêndice
 
 História: De onde esse framework veio
 ----------------------------------------------------
-_page 14 of 15_ 
+_página 14 de 15_ 
 
-  - Based on principles practiced by open source communities
+  - Com base em princípios praticados por comunidades de código aberto
 
-    - Research by Duke University's Fuqua School of Business and Diana Martin (2009 – 2010); additional community resources
+    - Pesquisa por Escola de negócios Fuqua da Universidade Duke e Diana Martin (2009 – 2010); recursos adicionais da comunidade
 
-  - Developed by the People team, with contributions from cross-functional focus group
+  - Desenvolvido pela equipe People, com contribuições do grupo de foco multifuncional
 
-    - Grew from People team Project Management Office's effort to create an open project management methodology (2012 – 2013)
-    - Google Calendar memo-list conversations served as a catalyst to share drafts with all associates and invite participation (2014)
-    - Tested by IT and Engineering, in the Google Calendar bridge working group (2014 – 2015)
+    - Cresceu da do esforço do Escritório de Gerenciamento de Projeto da equipe People para criar uma metodologia aberta de gerenciamento de projeto (2012 – 2013)
+    - Conversas por lista de notas do Google Agenda serviram como um catalisador para compartilhar rascunhos com todos os associados e convidar para participação (2014)
+    - Testado por IT e Engineering, no grupo de trabalho na ponte com Google Agenda (2014 – 2015)
 
-  - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
+  - Atualizado e mantido por Rebecca Fernandez (rfernand@redhat.com)
 
 
 Por que o framework existe
 ------------------------
-_page 15 of 15_ 
+_página 15 de 15_ 
 
-**A collection of proven practices that:**
+**Uma coleção de práticas comprovadas que:**
 
-  - Drive better alignment between business decisions and our company strategy, goals, culture, values, and mission
-  - Demonstrate “what good looks like” in decision-making and communication
-  - Offer consistent guidance for teams and leaders on Red Hat cultural expectations, balancing transparency and confidentiality
-  - Improve associate engagement, signal-to-noise ratio on memo-list
+  - Promovem um melhor alinhamento entre as decisões de negócios e a estratégia, metas, cultura, valores e missão da nossa empresa
+  - Demonstram “o que é bom” na tomada de decisões e comunicação
+  - Oferecem orientação consistente para equipes e líderes sobre as expectativas culturais da Red Hat, equilibrando transparência e confidencialidade
+  - Melhoram o envolvimento dos associados, proporção sinal/ruído na lista de notas
