@@ -1,200 +1,200 @@
 Open Decision Framework
 =======================
-Community Version 1.0.4
+Versão da Comunidade 1.0.4
 
-Updated Apr 10, 2017
+Atualizada em 10 de abril de 2017
 
-© 2014-2017 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
+© 2014-2017 Red Hat e contribuidores | O Open Decision Framework foi criado pela equipe Red Hat People e está disponível sob licença internacional Creative Commons Atribuição-CompartilhaIgual 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR) ). Red Hat e o logotipo do Shadowman são marcas comerciais da Red Hat, Inc. registradas em outros países. As versões modificadas devem remover todas as marcas da Red Hat.
 
-Notes
+Notas
 =========
 
-* This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
-* Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
+* Essa versão em markdown dos slides destina-se a facilitar a colaboração e o rastreamento de alterações.
+* A numeração de páginas corresponde aos arquivos LibreOffice (.odp) e PDF no repositório.
 
-Contents
+Índice
 ===========================================================================
-* [Overview](#overview)
-  * [What is an open decision?](#what-is-an-open-decision)
-  * [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
-  * [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
-  * [You can't please everyone](#you-cant-please-everyone)
+* [Visão geral](#overview)
+  * [O que é uma decisão aberta?](#what-is-an-open-decision)
+  * [As decisões abertas são feitas usando princípios abertos](#open-decisions-are-made-using-open-source-principles)
+  * [Como os princípios de código aberto levam a melhores decisões](#how-open-source-principles-lead-to-better-decisions)
+  * [Você não consegue agradar a todos](#you-cant-please-everyone)
 * [Open Decision Framework](#open-decision-framework-1)
-  * [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
-  * [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
-  * [Phase or activity: Design, Develop, Test](#phase-or-activity-design-develop-test)
-  * [Phase or activity: Launch, Deploy, Close](#phase-or-activity-launch-deploy-close)
-* [Resources](#resources)
-* [Appendix](#appendix)
-  * [History: Where the framework came from](#history-where-the-open-decision-framework-came-from)
-  * [Why the framework exists](#why-the-framework-exists)
+  * [Fase ou atividade: Conceituar, Definir, Idealizar](#phase-or-activity-concept-define-ideate)
+  * [Fase ou atividade: Planejar, Pesquisar](#phase-or-activity-plan-research)
+  * [Fase ou atividade: Projetar, Desenvolver, Testar](#phase-or-activity-design-develop-test)
+  * [Fase ou atividade: Lançar, Implantar, Fechar](#phase-or-activity-launch-deploy-close)
+* [Recursos](#resources)
+* [Apêndice](#appendix)
+  * [História: De onde esse framework veio](#history-where-the-open-decision-framework-came-from)
+  * [Por que o framework existe](#why-the-framework-exists)
 
 
-Overview
+Visão geral
 ===========================================================================
-_page 2 of 15_
+_página 2 de 15_
 
-**What it is**
-  - A flexible, open approach to making business decisions and leading projects
+**O que é**
+  - Uma abordagem flexível e aberta para tomar decisões de negócios e liderar projetos
 
-**When to use it**
+**Quando usá-lo**
 
-For decisions and projects that are likely to:
-  - impact our culture or
-  - affect associates beyond your immediate team
+Para decisões e projetos que possam:
+  - impactar nossa cultura ou
+  - afetar associados além de sua equipe imediata
 
-**How to use it**
-  - Build steps from the Open Decision Framework into your project plan or decision-making process
+**Como usá-lo**
+  - Construa etapas a partir do Open Decision Framework no seu plano de projeto ou processo de tomada de decisão
 
 
-What is an open decision?
+O que é uma decisão aberta?
 -------------------------
-_page 3 of 15_
+_página 3 de 15_
 
 <table>
 <tr>
-<td>Transparent</td>
-<td>Inclusive</td>
-<td>Customer-Centric</td>
+<td>Transparente</td>
+<td>Inclusiva</td>
+<td>Centrada no cliente</td>
 </tr>
 <tr>
-<td>Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.</td>
-<td>Engage others for feedback and collaborate throughout the decision-making process. Seek out diverse perspectives, including potential detractors.</td>
-<td>Think of people as customers with competing needs and priorities. When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.</td>
+<td>Explique quem está tomando a decisão, que problemas você está tentando resolver, os requisitos e as restrições envolvidas e o processo que seguirá.</td>
+<td>Envolva os outros para receber feedback e colabore durante todo o processo de tomada de decisão. Busque perspectivas diversas, incluindo possíveis detratores.</td>
+<td>Pense nas pessoas como clientes com necessidades e prioridades concorrentes. Quando uma decisão ajudará alguns clientes, mas desapontará os outros, gerencie relacionamentos e expectativas enquanto faz as coisas.</td>
 </tr>
 </table>
 
 
-Open decisions are made using open source principles 
+As decisões abertas são feitas usando princípios abertos
 -----------------------------------------------------
-_page 4 of 15_ 
+_página 4 de 15_ 
 
-**Open exchange**
+**Troca aberta**
 
-Whether you're developing software or trying to solve a business problem, open exchange begins when you share your "source code" with others. A free exchange of ideas is critical to creating an environment where people are allowed to learn and use existing information toward creating new ideas.
+Quer você esteja desenvolvendo software ou tentando resolver um problema de negócios, a troca aberta começa quando você compartilha seu "código-fonte" com outras pessoas. Uma troca livre de ideias é fundamental para criar um ambiente onde as pessoas possam aprender e usar as informações existentes para criar novas ideias.
 
-**Participation**
+**Participação**
 
-When we are free to collaborate, we create. We can solve problems that no one person may be able to solve on their own. And when we can implement open standards, we enable others to participate in the future.
+Quando estamos livres para colaborar, criamos. Podemos resolver problemas que ninguém pode resolver por conta própria. E quando podemos implementar padrões abertos, permitimos que outros participem no futuro.
 
-**Release early + often**
+**Lançamento antecipado + com frequência**
 
-Rapid prototypes can lead to rapid failures, and that leads to better solutions faster. When you're free to experiment, you can look at problems in new ways and look for answers in new places. You can learn by doing.
+Protótipos rápidos podem levar a falhas rápidas, e isso leva a melhores soluções mais rapidamente. Quando você está livre para experimentar, pode olhar para os problemas de novas maneiras e procurar respostas em novos lugares. Você pode aprender fazendo.
 
-**Meritocracy**
+**Meritocracia**
 
-In a meritocracy, good ideas can come from anywhere, and the best ideas win. Everyone has access to the same information. Successful work determines which projects rise and gather support and effort from the community.
+Em uma meritocracia, boas ideias podem vir de qualquer lugar, e as melhores ideias ganham. Todo mundo tem acesso à mesma informação. O trabalho bem-sucedido determina quais projetos surgem e reúnem apoio e esforço da comunidade.
 
-**Community**
+**Comunidade**
 
-Communities are formed around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
+Comunidades são formadas em torno de um propósito comum. Eles reúnem diversas ideias e compartilham o trabalho. Juntos, uma comunidade global pode criar além das capacidades de qualquer indivíduo. Multiplica o esforço e compartilha o trabalho. Juntos, podemos fazer mais.
 
-Adapted from: https://opensource.com/open-source-way
+Adaptado de: https://opensource.com/open-source-way
 
 
-How open source principles lead to better decisions  
+Como os princípios de código aberto levam a melhores decisões
 ---------------------------------------------------
-_page 5 of 15_ 
+_página 5 de 15_ 
 
 <table>
 <tr>
-<td>Principles</td>
+<td>Princípios</td>
 <td>→</td>
-<td>Practices</td>
+<td>Práticas</td>
 <td>→</td>
-<td>Outcomes</td>
+<td>Resultados</td>
 </tr>
 <tr>
 <td>
-• Open exchange<br/> • Participation<br/> • Release early + often<br/> • Meritocracy<br/> • Community
+• Troca aberta<br/> • Participação<br/> • Lançamento antecipado + com frequência<br/> • Meritocracia<br/> • Comunidade
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Transparency with internal customers and other stakeholders<br/> • Customer involvement<br/> • Gain feedback and adapt iterative changes<br/> • Ideation with customers<br/> • Build trust and respect via collaboration 
+• Transparência com clientes internos e outras partes interessadas<br/> • Envolvimento do cliente<br/> • Obtenha feedback e adapte as mudanças iterativas<br/> • Ideação com clientes<br/> • Construa confiança e respeito através da colaboração
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Customer buy-in<br/> • Stronger and faster adoption<br/> • Best ideas win<br/> • Fewer bugs, issues, and unanticipated impacts<br/> • Higher associate engagement<br/> • Decisions aligned to strategy and culture
+• Aceitação do cliente<br/> • Adoção mais forte e mais rápida<br/> • As melhores ideias vencem<br/> • Menos bugs, problemas e impactos não antecipados<br/> • Maior engajamento de associados<br/> • Decisões alinhadas à estratégia e cultura
 </td>
 </tr>
 </table>
 
 
-You can't please everyone. 
+Você não consegue agradar a todos
 ----------------------------------------------------
-**But when you make open decisions, people feel...**  _page 6 of 15_ 
+**Mas quando você faz decisões abertas, as pessoas sentem...**  _page 6 of 15_ 
 
-  - I understand why the decision was made and how it aligns to Red Hat's strategy, goals, and mission.
-  - There was visibility to the business requirements, research, and evaluation criteria.
-  - The decision-making process was inclusive and transparent.
-  - Although I wasn't the decision maker, I was able to contribute to the process.
-  - I may not agree with the decision, but it's obvious that the decision makers understand Red Hat's values and culture.
-  - I might be disappointed, but I wasn't surprised.
-  - My voice was heard and valued.
+  - Entendo porque a decisão foi tomada e como ela se alinha à estratégia, objetivos e missão da Red Hat.
+  - Havia visibilidade para os requisitos de negócios, pesquisa e critérios de avaliação.
+  - O processo de tomada de decisão foi inclusivo e transparente.
+  - Embora eu não fosse o tomador de decisões, fui capaz de contribuir com o processo.
+  - Posso não concordar com a decisão, mas é óbvio que os tomadores de decisão entendem os valores e a cultura da Red Hat.
+  - Eu posso estar desapontado, mas não fiquei surpreso.
+  - Minha voz foi ouvida e valorizada.
 
 
 Open Decision Framework 
 ===========================================================================
 
-Phase or activity: Concept, Define, Ideate 
+Fase ou atividade: Conceituar, Definir, Idealizar
 ---------------
-_page 7 of 15_ 
+_página 7 de 15_ 
 
 <table>
 <tr>
-<td width=34%><strong>Steps you can take to be open</strong></td>
-<td width=36%><strong>Questions to ask</strong></td>
-<td width=30%><strong>Common flamewar triggers</strong></td>
+<td width=34%><strong>Passos que você pode dar para ser aberto</strong></td>
+<td width=36%><strong>Perguntas para fazer</strong></td>
+<td width=30%><strong>Gatilhos comuns para *flamewar*</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3>
-<strong>Lead with transparency</strong><br/>
- • Publish a problem statement and possible approaches<br/><br/>
- • Identify any aspects of the project or decision that cannot be open<br/><br/>
- • Publish your ideation process<br/><br/>
+<strong>Lidere com transparência</strong><br/>
+ • Publique uma declaração de problema e possíveis abordagens<br/><br/>
+ • Identifique quaisquer aspectos do projeto ou decisão que não possam ser abertos<br/><br/>
+ • Publique seu processo de ideação<br/><br/>
 
-<strong>Build diversity of thought + an inclusive environment</strong><br/>
- • Engage internal customers and stakeholders early on, especially those who may disagree<br/><br/>
- • Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
- • Champion collaboration and provide channels for feedback<br/><br/>
- • Address risks, limitations, and potential cultural impacts, especially with historically controversial issues<br/><br/>
+<strong>Construa diversidade de pensamento + um ambiente inclusivo</strong><br/>
+ • Envolva os clientes internos e as partes interessadas desde o início, especialmente aqueles que podem discordar<br/><br/>
+ • Busque perspectivas diversas e sub-representadas (geografias, etnias, departamentos, níveis de emprego, sexo, idade, etc.)<br/><br/>
+ • Promove a colaboração e forneça canais de feedback<br/><br/>
+ • Aborde riscos, limitações e potenciais impactos culturais, especialmente com questões historicamente controversas<br/><br/>
 </td>
 <td>
- • What is the potential impact on the organization? On the culture?<br/><br/>
- • Who do we need to include in planning?<br/><br/>
- • Whose problem are we trying to solve?<br/><Br/>
- • Who will we need or want help from?<br/><br/>
- • Who else could be impacted?<br/><br/>
- • Who has solved a similar problem?<br/><br/>
- • Who is likely to disagree, dissent, reject, or opt out? Who else may care?
+ • Qual é o impacto potencial na organização? Na cultura?<br/><br/>
+ • Quem precisamos incluir no planejamento?<br/><br/>
+ • De quem é o problema que estamos tentando resolver?<br/><br/>
+ • De quem precisaremos ou queremos ajuda?<br/><br/>
+ • Quem mais poderia ser impactado?<br/><br/>
+ • Quem resolveu um problema semelhante?<br/><br/>
+ • Quem pode discordar, discordar, rejeitar ou recusar? Quem mais pode se importar?
 </td>
 <td rowspan=3>
-There are a handful of issues that often generate controversy and upset within Red Hat, including:<br/><br/>
- • Decisions, policies, or changes that impact associates, such as rewards and wellness programs<br/><br/>
- • Changes to associates' work environment<Br/><br/>
- • Implementation of proprietary technology<br/><br/>
- • Use of proprietary formats<Br/><br/>
- • Data privacy and sharing<br/><br/>
+Há um punhado de problemas que muitas vezes geram controvérsias e transtornos na Red Hat, incluindo:<br/><br/>
+ • Decisões, políticas ou alterações que afetam os associados, como recompensas e programas de bem-estar<br/><br/>
+ • Mudanças no ambiente de trabalho dos associados<br/><br/>
+ • Implementação de tecnologia proprietária<br/><br/>
+ • Uso de formatos proprietários<br/><br/>
+ • Privacidade e compartilhamento de dados<br/><br/>
 
-If your project or decision involves any of these themes, take extra steps to make your process open, inclusive, and transparent.
+Se o seu projeto ou decisão envolver qualquer um desses temas, tome medidas adicionais para tornar o processo aberto, inclusivo e transparente.
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Considerações chaves</strong></td>
 </tr>
 <tr>
 <td>
- • Confidentiality, privacy, and regulatory requirements<br/><br/>
- • Potential to generate controversy<br/><br/>
- • Impact on Red Hat's culture and future decisions<br/><br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
- • Where to publish
+ • Confidencialidade, privacidade e requisitos regulamentares<br/><br/>
+ • Potencial para gerar controvérsia<br/><br/>
+ • Impacto na cultura e nas decisões futuras da Red Hat<br/><br/>
+ • Papeis + responsabilidades (OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
+ • Onde publicar
 </td>
 </tr>
 </table>
 
 
-Phase or activity: Plan, Research 
+Fase ou atividade: Planejar, Pesquisar
 ----------------------
 _page 8 of 15_
 
@@ -247,7 +247,7 @@ _page 8 of 15_
 </table>
 
 
-Phase or activity: Design, Develop, Test 
+Fase ou atividade: Projetar, Desenvolver, Testar
 ----------------------------
 _page 9 of 15_ 
 
@@ -305,7 +305,7 @@ _page 9 of 15_
 </table>
 
 
-Phase or activity: Launch, Deploy, Close 
+Fase ou atividade: Lançar, Implantar, Fechar
 --------------
 _page 10 of 15_ 
 
@@ -350,7 +350,7 @@ _page 10 of 15_
 </table>
 
 
-Resources 
+Recursos 
 ===========================================================================
 _page 12 of 15_ 
 
@@ -362,10 +362,10 @@ _page 12 of 15_
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
 
-Appendix 
+Apêndice 
 ===========================================================================
 
-History: Where the Open Decision Framework came from 
+História: De onde esse framework veio
 ----------------------------------------------------
 _page 14 of 15_ 
 
@@ -382,7 +382,7 @@ _page 14 of 15_
   - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
 
 
-Why the framework exists 
+Por que o framework existe
 ------------------------
 _page 15 of 15_ 
 
