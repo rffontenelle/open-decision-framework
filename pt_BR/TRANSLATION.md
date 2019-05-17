@@ -6,8 +6,8 @@ Atualizada em 10 de abril de 2017
 
 © 2014-2017 Red Hat e contribuidores | O Open Decision Framework foi criado pela equipe Red Hat People e está disponível sob licença internacional Creative Commons Atribuição-CompartilhaIgual 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR) ). Red Hat e o logotipo do Shadowman são marcas comerciais da Red Hat, Inc. registradas em outros países. As versões modificadas devem remover todas as marcas da Red Hat.
 
-Notas
-=========
+Observações
+============
 
 * Essa versão em markdown dos slides destina-se a facilitar a colaboração e o rastreamento de alterações.
 * A numeração de páginas corresponde aos arquivos LibreOffice (.odp) e PDF no repositório.
