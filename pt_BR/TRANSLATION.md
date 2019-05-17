@@ -14,20 +14,20 @@ Notas
 
 Índice
 ===========================================================================
-* [Visão geral](#overview)
-  * [O que é uma decisão aberta?](#what-is-an-open-decision)
-  * [As decisões abertas são feitas usando princípios abertos](#open-decisions-are-made-using-open-source-principles)
-  * [Como os princípios de código aberto levam a melhores decisões](#how-open-source-principles-lead-to-better-decisions)
-  * [Você não consegue agradar a todos](#you-cant-please-everyone)
+* [Visão geral](#visão-geral)
+  * [O que é uma decisão aberta?](#o-que-é-uma-decisão-aberta)
+  * [As decisões abertas são feitas usando princípios abertos](#as-decisões-abertas-são-feitas-usando-princípios-abertos)
+  * [Como os princípios de código aberto levam a melhores decisões](#como-os-princípios-de-código-aberto-levam-a-melhores-decisões)
+  * [Você não consegue agradar a todos](#você-não-consegue-agradar-a-todos)
 * [Open Decision Framework](#open-decision-framework-1)
-  * [Fase ou atividade: Conceituar, Definir, Idealizar](#phase-or-activity-concept-define-ideate)
-  * [Fase ou atividade: Planejar, Pesquisar](#phase-or-activity-plan-research)
-  * [Fase ou atividade: Projetar, Desenvolver, Testar](#phase-or-activity-design-develop-test)
-  * [Fase ou atividade: Lançar, Implantar, Fechar](#phase-or-activity-launch-deploy-close)
-* [Recursos](#resources)
-* [Apêndice](#appendix)
-  * [História: De onde esse framework veio](#history-where-the-open-decision-framework-came-from)
-  * [Por que o framework existe](#why-the-framework-exists)
+  * [Fase ou atividade: Conceituar, Definir, Idealizar](#fase-ou-atividade-conceituar-definir-idealizar)
+  * [Fase ou atividade: Planejar, Pesquisar](#fase-ou-atividade-planejar-pesquisar)
+  * [Fase ou atividade: Projetar, Desenvolver, Testar](#fase-ou-atividade-projetar-desenvolver-testar)
+  * [Fase ou atividade: Lançar, Implantar, Fechar](#fase-ou-atividade-lançar-implantar-fechar)
+* [Recursos](#recursos)
+* [Apêndice](#apêndice)
+  * [História: De onde esse framework veio](#história-de-onde-esse-framework-veio)
+  * [Por que o framework existe](#por-que-o-framework-existe)
 
 
 Visão geral
