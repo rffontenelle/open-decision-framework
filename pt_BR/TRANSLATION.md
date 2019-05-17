@@ -207,7 +207,7 @@ _página 8 de 15_
 <td rowspan=3 width=33%><strong>Envolva clientes + colaboradores</strong><br/>
  • Reúna informações de clientes internos e de quem você precisará de ajuda (pesquisas, entrevistas, grupos focais, etc.)<br/><br/>
  • Facilite a participação + gerência. Pergunte aos clientes quais ferramentas de colaboração eles preferem usar. Tenha um plano para consolidar e publicar <i lang="en">feedback</i>.<br/><br/>
- • Permaneça de mente aberta para novas informações e perspectivas<br/><br/>
+ • Permaneça mente aberta para novas informações e perspectivas<br/><br/>
  • Considere o <i lang="en">feedback</i> pessoal e as opções de comunicação, além dos canais formais<br/><br/>
 
 <strong>Defina expectativas antecipadamente</strong><br/>
@@ -239,7 +239,7 @@ _página 8 de 15_
 </tr>
 <tr>
 <td>
- • Impacto – quem, com qual frequência e inesperado<br/>
+ • Impacto – quem, com qual frequência e o inesperado<br/>
  • Onde e como colaborar<br/>
  • Papeis + responsabilidades (OPT model: https://github.com/red-hat-people-team/opt-model/) 
 </td>
@@ -318,7 +318,7 @@ _página 10 de 15_
 <td rowspan=3 width=33%><strong>Comece com o fim em mente</strong><br/>
  • Demonstre alinhamento com a estratégia, missão, cultura e valores da Red Hat<br/><br/>
  • Descreva os passos que você tomou para tomar esta decisão abertamente<br/><br/>
- • Destaque o uso deste _framework_<br/><br/>
+ • Destaque o uso deste <i lang="en">framework</i><br/><br/>
  • Diga aos associados onde encontrar informações detalhadas<br/><br/>
  • Mostre como o <i lang="en">feedback</i> moldou a decisão ou projeto<br/><br/>
  • Explique como fornecer informações após o lançamento<br/><br/>
@@ -333,14 +333,14 @@ _página 10 de 15_
  • Comunique critérios de sucesso e publique métricas relevantes<br/><br/>
 
 <strong>Contribua com o _upstream_</strong><br/>
- • <br/>Publique seus métodos, lições aprendidas, comunicações e critérios de decisão no arquivo, para que outros possam revisar as decisões passadas, aprender por que uma decisão foi tomada e ver como os líderes responderam a problemas semelhantes no passado.<br/>
- • Oferecer orientação a outras pessoas sobre tomada de decisão aberta e escolha de ferramentas de colaboração
+ • Publique seus métodos, lições aprendidas, comunicações e critérios de decisão no arquivo, para que outros possam revisar as decisões passadas, aprender por que uma decisão foi tomada e ver como os líderes responderam a problemas semelhantes no passado.<br/><br/>
+ • Ofereça orientação a outras pessoas sobre tomada de decisão aberta e escolha de ferramentas de colaboração
 </td>
 <td>
  • Como vamos monitorar as listas de discussão e outros canais de <i lang="en">feedback</i> após o lançamento?<br/><br/>
  • Se tivermos feito versões antecipadas, continuaremos a fazer melhorias incrementais com base em <i lang="en">feedback</i>?<br/><br/>
  • Quão dispostos estamos a fazer revisões com base em <i lang="en">feedback</i>?<br/><br/>
- • O que é uma janela razoável de tempo para recebimento de informação e refinamento adicionais?<br/><br/>
+ • Qual é a janela razoável de tempo para recebimento de informação e refinamento adicionais?<br/><br/>
  • Nós deixamos passar algo importante sem tratamento? Como lidamos com isso?<br/><br/>
  • A decisão precisa ser revisitada?<br/><br/>
  • A tomada de decisão aberta levou aos resultados desejados?<br/><br/>
@@ -371,7 +371,7 @@ _página 14 de 15_
 
   - Com base em princípios praticados por comunidades de código aberto
 
-    - Pesquisa por Escola de negócios Fuqua da Universidade Duke e Diana Martin (2009 – 2010); recursos adicionais da comunidade
+    - Pesquisa pela Escola de Negócios Fuqua da Universidade Duke e Diana Martin (2009 – 2010); recursos adicionais da comunidade
 
   - Desenvolvido pela equipe People, com contribuições do grupo de foco multifuncional
 
